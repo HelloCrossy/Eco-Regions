@@ -2,35 +2,35 @@
 modLoader="javafml"
 loaderVersion="[36.2.0,)"
 license="GNU GPLv3"
-issueTrackerURL="https://github.com/HelloCrossy/WondersOfTheWorld/issues"
+issueTrackerURL="https://github.com/HelloCrossy/EcoRegions/issues"
 
 [[mods]]
-modId="wondersoftheworld"
+modId="ecoregions"
 version="${file.jarVersion}"
-displayName="Wonders Of The World ZAWA Addon"
+displayName="Eco Regions ZAWA Addon"
 #updateJSONURL=""
-displayURL="https://www.curseforge.com/minecraft/mc-mods/wonders-of-the-world"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/eco-regions"
 logoFile="logo.png"
-credits="Devs: HelloCrossy67, chilotic, 808s, SpiggitySpag, Arty, Kelvillar, Sophia     Other: Shoresy, Fisk, Mnesikos, Platinum, ClimbableChunky"
+credits=" Arty, Lleo, Arzher, SpiggitySpag, HelloCrossy67, Shoresy"
 authors="HelloCrossy67"
 description='''
-Addon for ZAWA Evolved, with the aim to bring animals from all across the world to YOUR screen!'''
+Addon for ZAWA Evolved, showcasing the beautiful wildlife of 6 of the continents!'''
 
-[[dependencies.wondersoftheworld]]
+[[dependencies.ecoregions]]
 modId="forge"
 mandatory=true
 versionRange="[36.2.20,)"
 ordering="NONE"
 side="BOTH"
 
-[[dependencies.wondersoftheworld]]
+[[dependencies.ecoregions]]
 modId="minecraft"
 mandatory=true
 versionRange="[1.16.5,1.17)"
 ordering="NONE"
 side="BOTH"
 
-[[dependencies.wondersoftheworld]]
+[[dependencies.ecoregions]]
 modId="zawa"
 mandatory=true
 versionRange="[1.16.5-1.0.2-BeefBeta-TropicalExpedition3,)"
